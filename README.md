@@ -42,4 +42,5 @@ A calculator, not an API call. It holds the "from" per-second rates the home pag
 PiAPI makes sense when you want images, video, audio and 3D behind one key and a playground to try things. If your product only generates video and you are calling it from a backend, a video-only REST API with no UI is less to learn and less to watch. [Try AI Video API - a REST API for video generation tasks, no UI](https://aivideoapi.com?utm_source=github&utm_medium=ugc&utm_campaign=piapi-api-examples&utm_content=readme-top&utm_term=tier-r). The request loop is the same shape as `create_task.py`: submit, poll, download.
 
 
+
 _Last reviewed: 2026-09-22_
